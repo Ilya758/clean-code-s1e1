@@ -13,7 +13,7 @@ body {
 .short-info-wrapper img {
   width: 100%;
 }
-.short-info-wrapper .more-info-link {
+.short-info-wrapper .short-info-link {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
   .short-info-wrapper { text-align: center;
   }
 }
-.todo-elems-wrapper {
+.todo-wrapper {
   display: block;
   width: 500px;
   margin: 0 auto 0;
